@@ -6,10 +6,10 @@ EcoScan is a full-stack web application designed to help users understand the en
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React 18 with JavaScript (no TypeScript)
+- **Frontend**: React 18 with JavaScript
 - **Backend**: Node.js with Express
 - **Styling**: Tailwind CSS with custom gradients and animations
-- **Image Recognition**: OpenAI GPT-4 Vision API (with mock fallback)
+- **Image Recognition**: OpenAI GPT-4 Vision API
 - **File Upload**: Multer with image validation
 - **HTTP Client**: Axios for API communication
 - **Icons**: Lucide React for beautiful, consistent icons
@@ -19,14 +19,13 @@ EcoScan is a full-stack web application designed to help users understand the en
 ## 🚀 Setup Instructions
 
 ### Prerequisites
-- Node.js (v16 or higher)
+- Node.js
 - npm or yarn
-- OpenAI API key (optional, for real AI analysis)
+- OpenAI API key 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ecoscan-reewild-challenge.git
-cd ecoscan-reewild-challenge
+git clone https://github.com/[your-username](https://github.com/GUGULOTHVENKATESH)/ecoscan
 ```
 
 ### 2. Install Dependencies
@@ -58,10 +57,8 @@ Edit the `.env` file:
 ```env
 PORT=5000
 NODE_ENV=development
-OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_KEY=your_openai_api_key_her
 ```
-
-**Note**: If you don't have an OpenAI API key, the app will use mock image recognition.
 
 ### 4. Run the Application
 Start both frontend and backend servers:
