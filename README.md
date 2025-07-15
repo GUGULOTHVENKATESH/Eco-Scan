@@ -25,7 +25,7 @@ EcoScan is a full-stack web application designed to help users understand the en
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/[your-username](https://github.com/GUGULOTHVENKATESH)/ecoscan
+git clone https://github.com/GUGULOTHVENKATESH/Eco-Scan
 ```
 
 ### 2. Install Dependencies
@@ -501,12 +501,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions about this project or the Reewild challenge:
 
-- **Email**: rithin.chalumuri@reewild.com
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: gugulothvenkatesh257@gmail.com
+- **GitHub**: https://github.com/GUGULOTHVENKATESH
+- **LinkedIn**: https://www.linkedin.com/in/guguloth-venkatesh-6245332b7/
 
 ---
 
-### 🌱 Thank you for building a greener future with EcoScan! 🌍💚
+### 🌱 A greener future with EcoScan! 🌍💚
 
 *Making fashion more sustainable, one scan at a time.*
